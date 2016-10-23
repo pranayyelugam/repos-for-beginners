@@ -1,5 +1,5 @@
 # Repos For Beginners
-A Curated List of tools/repos that can be useful to beginners
+A Curated List of tools/repos that can be useful to beginners  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
