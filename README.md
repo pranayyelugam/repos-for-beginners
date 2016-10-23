@@ -3,3 +3,4 @@
 
 
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books/issues)
+- [A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)
