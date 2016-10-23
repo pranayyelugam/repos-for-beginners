@@ -7,3 +7,5 @@ A Curated List of tools/repos that can be useful to beginners
 - [Tools For Bots](https://github.com/hackerkid/bots)
 - [Github Gitignores](https://github.com/github/gitignore)
 - [Hello World](https://github.com/salman-bhai/hello-world)
+- [A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)
+
