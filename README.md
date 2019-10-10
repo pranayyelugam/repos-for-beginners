@@ -8,4 +8,5 @@ A Curated List of tools/repos that can be useful to beginners
 - [Github Gitignores](https://github.com/github/gitignore)
 - [Hello World](https://github.com/salman-bhai/hello-world)
 - [A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)
+- [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 
